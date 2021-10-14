@@ -1,0 +1,1 @@
+<?php header( 'location: /carlosGarcia.html' ) ?>
